@@ -1,16 +1,47 @@
-# React + Vite
+# Mohamed (Moe) Abed Allah
+**Senior Software Engineer & Associate AI Engineer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Summary
+A passionate and experienced Senior Software Engineer and Associate AI Engineer. I specialize in leading full-stack development, integrating modern AI solutions into enterprise architectures, and building complex software components with a focus on performance and scalability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 💻 Technical Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### AI / ML Cluster
+Python, LLMs, Pinecone, NLP, Prompt Engineering
 
-## Expanding the ESLint configuration
+### Backend Core
+C# .NET, Java, C++, Azure, AWS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend & DevOps Array
+React, Angular, JS (ES6+), Git, CI/CD Pipelines
+
+---
+
+## 💼 Experience
+
+### Senior Software Engineer | Tikka Consulting PTY
+**11/2023 - Present**
+- Leading full-stack development and integrating modern AI solutions into enterprise architectures.
+
+### Software Engineer | LEADTOOLS
+**11/2011 - 10/2023**
+- Developed and maintained complex software components, focusing on performance and scalability over a decade.
+
+### Software Developer | ICS
+**08/2009 - 11/2011**
+- Initiated professional career by building solid foundational skills in software development.
+
+---
+
+## 📂 Projects & Certifications
+
+### Topic Analysis of Clothing Reviews
+*NLP • Python • Data Analysis*
+An AI-driven project applying advanced Natural Language Processing (NLP) techniques to analyze sentiment and extract key topics from consumer clothing reviews, providing actionable business insights through multidimensional data parsing.
+
+### DataCamp Certification
+Completed comprehensive training in data science and machine learning concepts through DataCamp, reinforcing practical skills in data manipulation, visualization, and AI models to construct robust machine learning pipelines.
